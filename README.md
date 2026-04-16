@@ -9,4 +9,5 @@ This is mostly a collection of links for useful items.
 * Media Canvas Template Training | Pt. 1 https://mediaspace.utah.edu/media/1_4l44l2b7
 * Media Canvas Template Training | Pt. 2 https://mediaspace.utah.edu/media/1_d96k4f2a
 * Media Canvas Template Training | Pt. 3 https://mediaspace.utah.edu/media/1_1umdnhfa
+* Media Canvas Template Training | Pt. 4 https://mediaspace.utah.edu/media/1_hhddxbra
 * Course Element Creation Using AI https://mediaspace.utah.edu/media/1_r6bbdbkv
